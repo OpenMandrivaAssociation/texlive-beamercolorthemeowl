@@ -1,6 +1,6 @@
 Name:		texlive-beamercolorthemeowl
 Version:	40105
-Release:	1
+Release:	2
 Summary:	A flexible beamer color theme to maximize visibility
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamercolorthemeowl
