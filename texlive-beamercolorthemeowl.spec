@@ -3,7 +3,7 @@ Version:	40105
 Release:	2
 Summary:	A flexible beamer color theme to maximize visibility
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamercolorthemeowl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamercolorthemeowl
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamercolorthemeowl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamercolorthemeowl.doc.r%{version}.tar.xz
